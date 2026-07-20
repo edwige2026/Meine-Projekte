@@ -1,2 +1,2 @@
 # Edwige Nguenang
-In dieser Repository wird alle meine Projekte beschrieben. Was im Rahmen meinem Studium, Stätigkeit und eigene initiative Projekte gemacht wurden.
+In diesem Repository werden all meine Projekte beschrieben. Darin sind Projekte aufgeführt, die im Rahmen meines Studiums, meiner Tätigkeit und eigener Initiativen entstanden sind.
