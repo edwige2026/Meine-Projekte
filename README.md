@@ -1,42 +1,75 @@
 # Nguenang Njinang Edwige Prisca
-### Informatikerin | Data Science | Machine Learning | Graph Analytics
+
+### Informatikerin | Data Science | Graph Analytics | Machine Learning
 
 Willkommen in meinem Projektportfolio!
 
-Ich habe mein Masterstudium der Informatik mit Vertiefung in Data Science erfolgreich abgeschlossen. In meinem Portfolio dokumentiere ich ausgewählte Projekte aus meinem Studium, meiner beruflichen Tätigkeit und meinen eigenen technischen Initiativen.
-
-Mein fachlicher Schwerpunkt liegt auf der Datenanalyse, der Graphentheorie und der Anwendung von Machine Learning. Besonders interessiere ich mich dafür, wie Netzwerkstrukturen analysiert und strukturelle Eigenschaften von Knoten mithilfe datengetriebener Methoden untersucht werden können.
+Ich habe mein Masterstudium der Informatik mit Vertiefung in Data Science erfolgreich abgeschlossen. Hier präsentiere ich ausgewählte Projekte aus meinem Studium und meiner praktischen Arbeit. Mein Ziel ist es, meine Kompetenzen in Data Science, Netzwerkanalyse und Machine Learning kontinuierlich auszubauen und mich langfristig in Richtung Graph Machine Learning zu entwickeln.
 
 ## 🎓 Akademischer Hintergrund
 
 **Master of Science – Informatik mit Vertiefung in Data Science**
 
-Masterarbeit: *Kritische Analyse von Centrality Maßen*
+Masterarbeit: *Kritische Analyse von Centrality-Maßen*
 
-## 🔬 Fachliche Interessen
-
-- Data Science und explorative Datenanalyse
-- Graphentheorie und Netzwerkanalyse
-- Zentralitätsmaße und strukturelle Knoteneigenschaften
-- Machine Learning und Graph Machine Learning
-- Anwendungen der Netzwerkanalyse im Finanzbereich
+Schwerpunkte: Datenanalyse, Graphentheorie, Netzwerkanalyse und Machine Learning.
 
 ## 🛠️ Technologien und Werkzeuge
 
-- **Programmierung:** Python, JavaScript
-- **Graph Analytics:** Gephi, igraph
-- **Datenanalyse:** R und statistische Netzwerkanalyse
+- **Programmiersprachen:** Python, R, JavaScript
+- **Data Science:** Datenbereinigung, explorative Datenanalyse, statistische Modellierung
+- **Machine Learning:** Regression, Modellbewertung und Grundlagen des ML
+- **Graph Analytics:** Gephi, igraph, Zentralitätsmaße
+- **Weitere Werkzeuge:** Jupyter Notebook, Git, GitHub, SQLite
 
-## 📂 Meine Projekte
+## 📂 Ausgewählte Projekte
 
-In diesem Repository dokumentiere ich meine technischen Projekte, die verwendeten Methoden und die gewonnenen Erkenntnisse.
+### 1. Data Science Salary Analysis
 
-Jedes Projekt soll nachvollziehbar zeigen, welches Problem untersucht wurde, wie die Umsetzung erfolgte und welche Ergebnisse erzielt wurden.
+**Technologien:** R, tidyverse, ggplot2, Regression
 
-## 🚀 Aktuelle fachliche Weiterentwicklung
+Explorative Analyse von Data-Science-Gehältern mit Fokus auf Datenqualität, Gehaltsverteilungen und den Zusammenhang zwischen Beschäftigungsjahr und Gehalt. Zusätzlich werden ein Median-Baseline-Modell und ein log-lineares Regressionsmodell verglichen.
 
-Ich vertiefe meine Kenntnisse im Bereich Machine Learning und möchte meine Erfahrung in der Netzwerkanalyse gezielt in Richtung Graph Machine Learning weiterentwickeln.
+**Projektziele und Lerninhalte:**
+- Datenqualität und Duplikate untersuchen
+- Gehaltsverteilungen visualisieren
+- Ein Regressionsmodell erstellen und bewerten
+- Modellgüte anhand von RMSE, MAE und R² vergleichen
 
+[GitHub-Repository ansehen](https://github.com/edwige2026/data-science-salary-analysis)
+
+### 2. Web Scraping & NLP Analysis
+
+**Technologien:** Python, Jupyter Notebook, SQLite, NLP, lokale LLMs
+
+Akademisches Assignment zur Untersuchung einer Web-Scraping- und Textanalyse-Pipeline. Das Projekt umfasst die Sammlung von Webinhalten, explorative Analysen und die Untersuchung von Texten mit sprachverarbeitenden Methoden und lokalen Large Language Models.
+
+**Projektziele und Lerninhalte:**
+- Strukturierte Datenerfassung und Datenverarbeitung
+- Explorative Analyse von Textdaten
+- Grundlagen der Natural Language Processing (NLP)
+- Untersuchung von LLM-gestützten Analyseansätzen
+- Dokumentation methodischer Grenzen und möglicher Verzerrungen
+
+[GitHub-Repository ansehen](https://github.com/edwige2026/web-scraping-nlp-analysis)
+
+*Hinweis: Es handelt sich um ein akademisches Projekt. Die Ergebnisse werden im Kontext der jeweiligen Aufgabenstellung interpretiert.*
+
+## 🔬 Forschungsinteressen
+
+- Graphentheorie und komplexe Netzwerke
+- Zentralitätsmaße und strukturelle Knoteneigenschaften
+- Graph Machine Learning und datengetriebene Netzwerkanalyse
+- Machine Learning für Anwendungen im Finanzbereich
+- Interpretierbarkeit und Grenzen datenbasierter Modelle
+
+## 🚀 Berufliches Entwicklungsziel
+
+Ich möchte meine Erfahrung in der Softwareentwicklung mit meinen Kenntnissen in Data Science und Graph Analytics verbinden. Mein nächster Entwicklungsschritt ist der Aufbau vertiefter praktischer Kompetenzen in Python, PyTorch und Graph Machine Learning.
+
+## 📫 Kontakt
+
+Weitere Informationen zu meinen Projekten und technischen Arbeiten findest du in den verlinkten GitHub-Repositories.
 ## 📫 Kontakt
 
 Weitere Informationen zu meinen Projekten findest du in diesem Repository.
