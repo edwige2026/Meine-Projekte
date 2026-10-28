@@ -1,3 +1,9 @@
+> **Version française :** [Consulter le portfolio en français](https://edwige2026.github.io/Meine-Projekte/fr/)
+
+> **English:** French version available at the link above; this portfolio is currently maintained in German and French.
+
+---
+
 # Nguenang Njinang Edwige Prisca
 
 ### Informatikerin | Data Science | Graph Analytics | Machine Learning
